@@ -7,7 +7,7 @@ CAA 2021 conference page: https://2021.caaconference.org/
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
-**Slides with optional audio (approx. 32 min.)**: https://andros-spica.github.io/CAA-Angourakis-et-al-2021/  
+**Slides with optional audio (approx. 23 min.)**: https://andros-spica.github.io/CAA-Angourakis-et-al-2021/  
 NOTE: the text corresponding to the audio is available in the 'speaker view' by pressing 'S'. 
 
 **Authors**  
