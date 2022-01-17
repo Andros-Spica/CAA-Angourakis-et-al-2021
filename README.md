@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4972632.svg)](https://doi.org/10.5281/zenodo.4972632)
 
 # IndusVillage. Modelling cropping strategies and climate change in rural settlements of the Indus Civilisation
 Presentation for the session "Modelling socio-ecological dynamics of past societies: recent advancements and new perspectives" (S10) in the "Computer Applications & Quantitative Methods in Archaeology" (CAA) 2021 - “Digital Crossroads” conference (17 June 2021)
